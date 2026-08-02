@@ -22,7 +22,7 @@ I'm a college student in Ha Noi, currently majoring IT
 ### 🚀 Projects & Focus
 
 * 🛠️ **[hanu-course-auto-register](https://github.com/quoocbao/hanu-course-auto-register)** — Userscript for automatic course registration at HANU.
-* 🔭 **Currently Focusing On:** Developing custom automation scripts and expanding my programming toolkit.
+* 🔭 **Currently Focusing On:** Programming and Japanese
 
 ---
 
