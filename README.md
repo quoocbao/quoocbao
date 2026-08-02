@@ -28,11 +28,11 @@ I'm a college student in Ha Noi, currently majoring IT
 
 ### 📈 My Stats
 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=quoocbao&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="50%" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=quoocbao&layout=compact&theme=tokyonight&hide_border=true" width="50%" alt="Most Used Languages" />
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=quoocbao&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="495" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=quoocbao&layout=compact&theme=tokyonight&hide_border=true" width="495" alt="Most Used Languages" />
+</div>
 
 ---
 
