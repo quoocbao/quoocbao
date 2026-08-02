@@ -33,7 +33,7 @@ I'm a college student in Ha Noi, currently majoring IT
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=quoocbao&layout=compact&theme=tokyonight&hide_border=true" width="45%" alt="Most Used Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=quoocbao&layout=compact&theme=tokyonight&hide_border=true" width="50%" alt="Most Used Languages" />
 </p>
 
 ---
