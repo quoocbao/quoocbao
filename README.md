@@ -7,7 +7,7 @@ I'm a college student in Ha Noi, currently majoring IT
 ### 💻 Tech Stack
 
 <details>
-<summary><b>Click to view 🛠️</b></summary>
+<summary><b>Click to view</b></summary>
 <br>
 
 | Category | Tools & Languages |
