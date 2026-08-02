@@ -6,10 +6,16 @@ I'm a college student in Ha Noi, currently majoring IT
 
 ### 💻 Tech Stack
 
+<details>
+<summary><b>Click to expand Tech Stack & Tools 🛠️</b></summary>
+<br>
+
 | Category | Tools & Languages |
 | :--- | :--- |
 | **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white) |
 | **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
+
+</details>
 
 ---
 
