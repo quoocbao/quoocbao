@@ -24,9 +24,9 @@
 
 #### Spoken
 <p align="left">
-  <img src="https://img.shields.io/badge/Vietnamese-Native-DA251D?style=for-the-badge&logo=vietnam&logoColor=white" height="28" alt="Vietnamese" />
-  <img src="https://img.shields.io/badge/English-Fluent-0A85EA?style=for-the-badge" height="28" alt="English" />
-  <img src="https://img.shields.io/badge/Japanese-Learning-BC002D?style=for-the-badge" height="28" alt="Japanese" />
+  <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/1x1/vn.svg" alt="Vietnamese" width="40" height="40" style="border-radius: 10px;" />
+  <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/1x1/gb.svg" alt="English" width="40" height="40" style="border-radius: 10px;" />
+  <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/1x1/jp.svg" alt="Japanese" width="40" height="40" style="border-radius: 10px;" />
 </p>
 
 ---
